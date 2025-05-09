@@ -8,10 +8,6 @@ User Features: Users can register or log in to explore the list of available doc
 
 3.This project demonstrates a comprehensive hospital management solution, supporting an intuitive user experience, robust role-specific features, and secure online payments, providing seamless interaction for patients, doctors, and administrators.
 
-Live Preview : https://hms-frontend-kappa.vercel.app/
-
-Admin/Doctor Portal : https://hms-admin-nine.vercel.app/
-
 Here are some references images
 User Sction
 User Registration & Login
